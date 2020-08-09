@@ -2,7 +2,7 @@
 
 ### Dayton, Ohio
 
-[<img src="https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/linkedin.svg" style="width:30px"/>](https://www.linkedin.com/in/jeremylshepherd =30x30) [![Icon](https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/github.svg)](https://github.com/jeremylshepherd) [![Icon](https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/link.svg)](http://jeremylshepherd.github.io) [![Icon](https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/twitter.svg)](https://www.twitter.com/JeremyLShepherd)
+[<img src="https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/linkedin.svg" style="width:30px"/>](https://www.linkedin.com/in/jeremylshepherd) [![Icon](https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/github.svg)](https://github.com/jeremylshepherd) [![Icon](https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/link.svg)](http://jeremylshepherd.github.io) [![Icon](https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/twitter.svg)](https://www.twitter.com/JeremyLShepherd)
 
 My name is Jeremy and I love coding. I am currently attending **University of Cincinnati's _(Go Bearcats!)_** Bachelor program for Software Application Development. I have an **Associate's degree** in **Software Development** (and one in Criminal Justice too) from **Sinclair College** _(pending internship)_.
 
