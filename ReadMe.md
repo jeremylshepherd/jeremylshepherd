@@ -7,6 +7,8 @@
 [![Icon](https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/link.svg)](http://jeremylshepherd.github.io)
 [![Icon](https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/twitter.svg)](https://www.twitter.com/JeremyLShepherd)
 
+[:page_with_curl: My Résumé](https://jeremylshepherd.github.io/assets/resume.pdf)
+
 My name is Jeremy and I love coding. I am currently attending **University of Cincinnati's _(Go Bearcats!)_** Bachelor program for Software Application Development. I have an **Associate's degree** in **Software Development** (and one in Criminal Justice too) from **Sinclair College** _(pending internship)_.
 
 A few years ago, I was trying to build a WordPress site to showcase my photography (another passion of mine) and hated every template I tried. I decided to see if I could throw together enough HTML/CSS to make something close to what I envisioned. I stumbled on Codecademy and took the HTML/CSS courses. I was hooked. I took nearly every course they offered. I devoured nearly every JS/Rails course I could find online.
