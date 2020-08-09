@@ -1,4 +1,4 @@
-<img style="border-radius:50%;max-width:150px;margin:1em" alt="jeremylshepherd's avatar" src="https://gravatar.com/avatar/28acf74786d34d55ddbba649aab086c5.jpg?s=360&r=pg"><br/>
+<img style="border-radius:50%;max-width:150px;margin:1em" alt="jeremylshepherd's avatar" src="https://gravatar.com/avatar/28acf74786d34d55ddbba649aab086c5.jpg?s=150&r=pg"><br/>
 
 ## Jeremy L. Shepherd
 
