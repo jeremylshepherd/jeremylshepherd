@@ -1,4 +1,4 @@
-![ReadMe Banner](https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/ReadmeBanner.svg)
+![ReadMe Banner](https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/ReadMeBanner.svg)
 
 ### Dayton, Ohio
 
