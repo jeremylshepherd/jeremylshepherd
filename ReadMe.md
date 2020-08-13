@@ -1,6 +1,6 @@
 ![ReadMe Banner](https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/ReadMeBanner.svg)
 
-### Dayton, Ohio
+### :earth_americas: Dayton, Ohio
 
 [![Icon](https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/linkedin.svg)](https://www.linkedin.com/in/jeremylshepherd)
 [![Icon](https://raw.githubusercontent.com/jeremylshepherd/jeremylshepherd/master/assets/github.svg)](https://github.com/jeremylshepherd)
