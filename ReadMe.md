@@ -15,4 +15,4 @@ A few years ago, I was trying to build a WordPress site to showcase my photograp
 
 Then I discovered Free Code Camp. A clear map of principles and projects to learn and build. I have since completed the original curriculum and updated curriculum. From there, I went back to college to develop a deeper knowledge of programming and industry best practices. I have worked with C#, Java, Swift, JavaScript, and Ruby to build cross-platform applications. I love coding and look forward to starting a new career building applications that improve people's lives.
 
-[![Jeremy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremylshepherd)](https://github.com/anuraghazra/github-readme-stats)[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremylshepherd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Jeremy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremylshepherd)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremylshepherd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
